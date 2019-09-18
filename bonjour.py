@@ -1,5 +1,5 @@
 """ bienvenue"""
-donnöes : le semestre d'entrée
+données : le semestre d'entrée
 resultat : afficher un message de  bienvenue au etudiant-e
 
 ### declaration des variables
@@ -7,3 +7,5 @@ resultat : afficher un message de  bienvenue au etudiant-e
 ###séquence d' oprération
 print("bonjour!")
 print("bioenvenue aux etudiants-es 2019 2020!")
+print("c'est pour le TP d info")
+
